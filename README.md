@@ -210,3 +210,5 @@ The intelligence layer is cleanly isolated from API routers. Future production r
 - Linear regression & XGBoost models for seasonal expense prediction
 - ARIMA / Prophet time series models in `forecasting_engine.py`
 - DBSCAN clustering for automated merchant and subscription grouping in `recurring_detector.py`
+#   B u d g e t - I Q  
+ 
